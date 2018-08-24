@@ -1,2 +1,2 @@
 # Hello-World
-Solutio to Hello world challenge
+Solution to Hello world challenge
